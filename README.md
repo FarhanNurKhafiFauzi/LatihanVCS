@@ -12,6 +12,9 @@ Kelas : TI.20.B.1
 ![git pict](download-git.PNG)
 
 * cek version di git bash
+
+![git pict](version-git.png)
+
 * add user 
 * lalu buat akun git hub
 * lalu buat repository 
