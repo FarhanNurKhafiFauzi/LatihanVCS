@@ -9,7 +9,7 @@ Kelas : TI.20.B.1
 
 * Pertama download Git
 
-[git pict](latihan VCS/download-git.png)
+[git pict](latihanVCS/download-git.png)
 
 * lalu selanjutnya cara Instalasi
 * cek version di git bash
