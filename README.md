@@ -9,7 +9,7 @@ Kelas : TI.20.B.1
 
 * Pertama download Git
 
-[git pict](download-git.png)
+[git pict](download-git.PNG)
 
 * lalu selanjutnya cara Instalasi
 * cek version di git bash
