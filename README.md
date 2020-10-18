@@ -15,7 +15,7 @@ Kelas : TI.20.B.1
 
 ![git pict](version-git.PNG)
 
-* add user
+* git add
 
 ![git pict](git-add.PNG)
 
