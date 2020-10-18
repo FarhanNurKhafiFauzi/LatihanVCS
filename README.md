@@ -28,6 +28,9 @@ Kelas : TI.20.B.1
 ![git pict](creatRepository.PNG)
 
 * langkah selanjutnya copy link github
+
+![git pict](https://github.com/)
+
 * setelah itu gt clone di folder
 * git commit
 * dan langkah selanjunya edeit file README.md
