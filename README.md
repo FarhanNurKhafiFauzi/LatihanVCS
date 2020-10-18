@@ -21,7 +21,7 @@ Kelas : TI.20.B.1
 
 * lalu buat akun git hub
 
-
+![git pict](https://github.com/)
 
 * lalu buat repository 
 
