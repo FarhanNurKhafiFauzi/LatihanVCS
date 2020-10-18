@@ -16,6 +16,9 @@ Kelas : TI.20.B.1
 ![git pict](version-git.PNG)
 
 * add user 
+
+![git pict](adduser)
+
 * lalu buat akun git hub
 * lalu buat repository 
 * langkah selanjutnya copy link github
