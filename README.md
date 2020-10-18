@@ -13,7 +13,7 @@ Kelas : TI.20.B.1
 
 * cek version di git bash
 
-![git pict](version-git.png)
+![git pict](version-git.PNG)
 
 * add user 
 * lalu buat akun git hub
