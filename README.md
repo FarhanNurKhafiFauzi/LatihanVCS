@@ -41,6 +41,7 @@ Kelas : TI.20.B.1
 
 ![git pict](commit.PNG)
 
+
 * dan langkah selanjunya edeit file README.md
 * setelah itu ke git add
 * langkah selanjutnya git commit
