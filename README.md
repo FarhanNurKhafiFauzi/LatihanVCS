@@ -20,7 +20,13 @@ Kelas : TI.20.B.1
 ![git pict](git-add..PNG)
 
 * lalu buat akun git hub
+
+
+
 * lalu buat repository 
+
+![git pict](creatRepository.PNG)
+
 * langkah selanjutnya copy link github
 * setelah itu gt clone di folder
 * git commit
