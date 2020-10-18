@@ -6,7 +6,11 @@ Nim : 312010087
 Kelas : TI.20.B.1
 
 #langkah-langkah pembuatan VCS 
+
 * Pertama download Git
+
+[git pict](latihan VCS/download-git.png)
+
 * lalu selanjutnya cara Instalasi
 * cek version di git bash
 * add user 
