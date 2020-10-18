@@ -11,7 +11,6 @@ Kelas : TI.20.B.1
 
 ![git pict](download-git.PNG)
 
-* lalu selanjutnya cara Instalasi
 * cek version di git bash
 * add user 
 * lalu buat akun git hub
